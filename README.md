@@ -1,15 +1,14 @@
-
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1><p align="center">Hello, I'm Leonardo Balbi! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+ 
+ <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
-
-
-<p align="center"><em>Estudiante de Ciberseguridad y Análisis de Datos<br>
+<p align="left"><em>Estudiante de Ciberseguridad y Análisis de Datos<br> 
 Apasionado por la tecnología, la seguridad informática y la ciencia de datos.<br>
 Siempre aprendiendo y compartiendo conocimiento.</em></p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/leonardo-balbi/"><img src="https://img.shields.io/badge/-Leonardo%20Balbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Leo-Balbi"><img src="https://img.shields.io/github/followers/Leo-Balbi?label=GitHub&style=for-the-badge&logo=github"></a>
 </p>
@@ -30,7 +29,7 @@ Siempre aprendiendo y compartiendo conocimiento.</em></p>
 
 ---
 
-### 🛡️ Áreas de Interés
+ ### 🛡️ Áreas de Interés 
 - 🛠️ **Pentesting y hacking ético**
 - 🔍 **Análisis forense digital**
 - ⚙️ **Automatización de tareas de seguridad**
